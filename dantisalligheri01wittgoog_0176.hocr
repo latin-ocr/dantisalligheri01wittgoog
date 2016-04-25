@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dantisalligheri01wittgoog_0176.png"; bbox 0 0 2940 5040; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 397 1490 972 1574">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 397 1490 972 1574">
+     <span class='ocr_line' id='line_1_1' title="bbox 397 1490 972 1574; baseline 0.003 -2"><span class='ocrx_word' id='word_1_1' title='bbox 397 1491 608 1573; x_wconf 84' lang='lat' dir='ltr'><strong>DANTIS</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 632 1490 972 1574; x_wconf 81' lang='lat' dir='ltr'>ALLlGHERII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 224 1767 1147 1890">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 224 1767 1147 1890">
+     <span class='ocr_line' id='line_1_2' title="bbox 224 1767 1147 1890; baseline -0.002 -3"><span class='ocrx_word' id='word_1_3' title='bbox 224 1767 1147 1890; x_wconf 71' lang='lat' dir='ltr'><strong>MONAROHIA⁰</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 609 2100 761 2116">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 609 2100 761 2116">
+     <span class='ocr_line' id='line_1_3' title="bbox 609 2100 761 2116; baseline 0 -1"><span class='ocrx_word' id='word_1_4' title='bbox 609 2100 761 2116; x_wconf 71' lang='grc' dir='ltr'>ΑΛΛΛΛΑΛΛΛΛ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 560 2342 808 2418">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 560 2342 808 2418">
+     <span class='ocr_line' id='line_1_4' title="bbox 560 2342 808 2418; baseline -0.008 0"><span class='ocrx_word' id='word_1_5' title='bbox 560 2343 719 2418; x_wconf 85' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_6' title='bbox 755 2342 808 2417; x_wconf 89' lang='lat' dir='ltr'><strong>Ill.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1474 5040">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1474 5040">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1474 5040; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1474 5040; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
